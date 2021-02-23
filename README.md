@@ -1,5 +1,7 @@
-### Hi there 👋
+### I'm penucuriCode - Meow404 👋
 
+
+[![HitCount](http://hits.dwyl.com/penucuriCode/penucuriCode.svg)](http://hits.dwyl.com/penucuriCode/penucuriCode)
 <!--
 **penucuriCode/penucuriCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
