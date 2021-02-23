@@ -1,7 +1,9 @@
-### I'm penucuriCode - Meow404 👋
+### Hi There, I'm penucuriCode👋
 
 
-[![HitCount](http://hits.dwyl.com/penucuriCode/penucuriCode.svg)](http://hits.dwyl.com/penucuriCode/penucuriCode)
+![](https://komarev.com/ghpvc/?username=penucuriCode&color=brightgreen)
+
+
 <!--
 **penucuriCode/penucuriCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
