@@ -1,8 +1,7 @@
 ### Hi There, I'm penucuriCode👋
 
 <img src="https://komarev.com/ghpvc/?username=penucuriCode&style=flat-square" alt="penucuriCode"/>
-![alt text](https://img.shields.io/badge/Coded-penucuriCode-blue.svg)
-![alt text](https://img.shields.io/badge/Python-3-green.svg)<br>
+![alt text](https://img.shields.io/badge/Coded-penucuriCode-blue.svg) 
 
 - ⚡ Email: bughunternear@gmail.com 
 
