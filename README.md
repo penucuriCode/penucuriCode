@@ -2,14 +2,7 @@
 <img align='right' src="https://myokutimurnews.files.wordpress.com/2019/10/hacker.gif?w=660" width="230">
 <br/>
 <br/>
-
-### Hi 🙋‍♂️,
-### I'm 22 years old Self-taught developer, technical support engineer , Graphics Designer from Indonesia.
-
-<br/>
-
-
-**I am Into , 🙏**
+**I am Into**
 <br/>
 **Certified JAVA Developer, Machine Learning, Web Development, Mobile Application Development, Cloud Computing, Linux, System Design & Programming**
 
