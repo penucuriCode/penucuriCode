@@ -1,10 +1,6 @@
 <h2>Hi, I'm Meow404! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://myokutimurnews.files.wordpress.com/2019/10/hacker.gif?w=660" width="230">
 <br/>
-<a href="https://github.com/penucuriCode">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
-</a>
-<br/>
 <br/>
 
 ### Hi 🙋‍♂️,
