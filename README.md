@@ -1,11 +1,30 @@
-### Hi There, I'm :sparkling_heart:Meow404:sparkling_heart:
+<h2>Hi, I'm Meow404! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://myokutimurnews.files.wordpress.com/2019/10/hacker.gif?w=660" width="230">
+<br/>
+<a href="https://github.com/penucuriCode">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
+</a>
+<br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=penucuriCode&style=flat-square" alt="penucuriCode"/>
+### Hi 🙋‍♂️,
+### I'm 22 years old Self-taught developer, technical support engineer , Graphics Designer from Indonesia.
 
-- ⚡ email: bughunternear@gmail.com
-- :skull: website exploit : https://bit.ly/37Uq4Xj
+<br/>
 
-<div class="box">
-<img src="https://github-readme-stats.vercel.app/api?username=penucuriCode" syle="witdh: 50%;" alt="penucuriCode"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=penucuriCode" alt="penucuriCode" syle="witdh: 50%"/>
-</div>
+
+**I am Into , 🙏**
+<br/>
+**Certified JAVA Developer, Machine Learning, Web Development, Mobile Application Development, Cloud Computing, Linux, System Design & Programming**
+
+<br/>
+
+<a href="https://github.com/penucuriCode">
+  <img src="https://github-readme-stats.vercel.app/api?username=penucuriCode&show_icons=true&theme=blue-green&layout=compact" alt="penucuriCode GitHub Stats" />
+</a>
+<a href="https://github.com/evildevill">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penucuriCode&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
+</a>
+<br />
+
+*************
