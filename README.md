@@ -1,5 +1,5 @@
 <h2>Hi, I'm Meow404! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://myokutimurnews.files.wordpress.com/2019/10/hacker.gif?w=660" width="230">
+<img align='right' src="https://steamuserimages-a.akamaihd.net/ugc/788539568426486687/A953AF6B5645E476D70A4187E7DF7B1B55B5444F/" width="230">
 <br/>
 I am Into
 <br/>
